@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kodverket AB</title>
+        <link>/</link>
+        <description>About Kodverket</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Added CV</title>
+    <link>/posts/welcome/</link>
+    <pubDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>/posts/welcome/</guid>
+    <description><![CDATA[Here is a pdf version of my cv.]]></description>
+</item></channel>
+</rss>
