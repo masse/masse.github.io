@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>personal - Category - Kodverket AB</title>
+        <link>/categories/personal/</link>
+        <description>personal - Category - Kodverket AB</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</lastBuildDate><atom:link href="/categories/personal/" rel="self" type="application/rss+xml" /><item>
+    <title>Added CV</title>
+    <link>/welcome/</link>
+    <pubDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>/welcome/</guid>
+    <description><![CDATA[Here is a pdf version of my cv.]]></description>
+</item><item>
+    <title>About Me</title>
+    <link>/about/</link>
+    <pubDate>Thu, 28 Feb 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/about/</guid>
+    <description><![CDATA[Marcus Cedergren   Me on Gaustatoppen, Norway (figure)   I&rsquo;m a seasoned software developer with more than 20 years of experience of delivering value to clients in industries such as Telecom, Public Health Care, Government and Logistics. Being comfortable in both front and backend I often take on leading roles in developer teams.
+Having an analytical and pragmatic mindset makes me excel at balancing business demands and usability aspects - resulting in high quality web and mobile applications.]]></description>
+</item></channel>
+</rss>

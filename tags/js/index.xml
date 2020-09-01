@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>js - Tag - Kodverket AB</title>
+        <link>/tags/js/</link>
+        <description>js - Tag - Kodverket AB</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</lastBuildDate><atom:link href="/tags/js/" rel="self" type="application/rss+xml" /><item>
+    <title>SVG test</title>
+    <link>/svgtest/</link>
+    <pubDate>Thu, 20 Aug 2020 11:18:37 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>/svgtest/</guid>
+    <description><![CDATA[SVG test  ]]></description>
+</item></channel>
+</rss>
